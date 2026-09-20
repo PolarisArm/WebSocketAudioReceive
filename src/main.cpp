@@ -14,8 +14,8 @@
 #define AUDIO_BUFFER_SIZE 4000
 #define AUDIO_BUFFER_POOL 25
 
-const char* ssid = "Home";
-const char* pass = "353Arm52@89";
+const char* ssid = "";
+const char* pass = "";
 
 char buf[50];
 char playerBuf[50];
